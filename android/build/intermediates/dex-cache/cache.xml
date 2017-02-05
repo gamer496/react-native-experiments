@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-35ea6afd62d3f59a030f11da33eebf35efbd364c.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-0bd1c3794cf213258b7490b9ed4b9e97ccb0fa03.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-13ae6eef044a8c65929ec449b81e045078b33432.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-3ce9d39b3a7b5dd6bc8a4c9a7ed23434765e3e68.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-5a5bc649cd5138ca59e8596c2a7901fe08900ad3.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-3e5af356cbc5e3b002b2f7c4442bf56e2d698dfb.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-fb0eb3616d69c22b44310766cc8bfcd28de82e39.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-c082fa474425ceec24348decbfb9839130e940e6.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-5a5dba39ede73c3b48a80a135fff8b47cb01ba59.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-6b3980e15fd88166400997c0c04e97827d7f478c.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-cd2790dc0624051aa72a91ebe4b416c100b54cc5.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-ce96a804f714e3e08365e4a1954f858c70594c6d.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-b81a79d0436ce37c92303fe7d4269470bee53ea4.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-a3d5c43506c952b32078d46e26ba4f08e3c136d8.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-1c5ce946f529d54dafaff32ae012964017008794.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-06716b2b0d66e9d44813573380f885b0b148195d.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-181ea12c46efe01e3e82811d8f9f21a165205801.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-24d046d86d624a8d4ee4c7d172508040e6c03433.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-7b3973ced3e0483a6b5b114301f7735ea323e21d.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-eeff5032cddafa4a4da66f4774238a5ed75533db.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-c5125c7ed30ce3c4ebe52893909edd618614cedb.jar" />
+    </item>
+    <item
+        jar="/home/gamer496/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/gamer496/android-pros/react/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-b77f0f83d4c7cc7e8adc73324de45db67472482e.jar" />
+    </item>
+
+</items>
